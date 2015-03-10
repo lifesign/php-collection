@@ -234,3 +234,70 @@ PHP资源汇总 Thanks to [ziadoz](https://github.com/ziadoz/awesome-php/)
 * [PHPLOC](https://github.com/sebastianbergmann/phploc) - 一个快速评估 PHP 项目大小的工具
 * [xHprof](https://github.com/phacility/xhprof) - 另一个 PHP 性能评测工具
 * [PHPCheckstyle](https://github.com/jbrooksuk/phpcheckstyle) - 一个帮助遵守特定代码规则的工具
+
+## 调试
+*调试代码的库和工具*
+
+* [xDebug](https://github.com/xdebug/xdebug) - 一个调试和分析 PHP 的工具
+* [PHP Debug Bar](http://phpdebugbar.com/) - 一个调试工具栏
+* [PHP Console](https://github.com/Seldaek/php-console) - 一个 web 调试控制台
+* [Barbushin PHP Console](https://github.com/barbushin/php-console) - 另一个使用 Google Chrome 的 web 调试控制台
+* [PHPDBG](http://phpdbg.com/) - 一个交互的 PHP 调试器
+* [Tracy](https://github.com/nette/tracy) - 一个简单的错误检测，记日志和时间测量库
+
+## 构建工具
+*项目构建和自动化工具*
+
+* [Go](https://github.com/herrera-io/php-go) - 一个简单的 PHP 构建工具
+* [Bob](https://github.com/CHH/bob) - 一个简单的项目自动化工具
+* [Phake](https://github.com/jaz303/phake) - 一个 PHP 克隆库
+* [Box](https://github.com/kherge/Box) - 一个构建 PHAR 文件的工具
+* [Phing](http://www.phing.info/) - 一个受 Apache Ant 启发的 PHP 项目构建系统
+
+## 任务运行器
+*自动运行任务的库*
+* [Task](http://taskphp.github.io/) - 一个灵感来源于 Grunt 和Gulp的纯PHP任务运行器
+* [Robo](https://github.com/Codegyre/Robo) - 一个面向对象配置的 PHP 任务运行器
+* [Bldr](http://bldr.io/) - 一个构建在 Symfony 组件上的 PHP 任务运行器
+
+## 导航
+*构建导航结构的工具*
+
+* [KnpMenu](https://github.com/KnpLabs/KnpMenu) - 一个菜单库
+* [Cartographer](https://github.com/tackk/cartographer) - 一个站点地图生成库
+
+## 资源管理
+*管理，压缩和最小化 web 站点资源的工具*
+
+* [Assetic](https://github.com/kriswallsmith/assetic) - 一个资源管理的管道库
+* [Pipe](https://github.com/CHH/pipe) - 另一个资源管理的管道库
+* [Munee](https://github.com/meenie/munee) - 一个资源优化库
+* [JShrink](https://github.com/tedivm/JShrink) - 一个 JavaScript 压缩库
+* [Puli](https://github.com/webmozart/puli) - 一个检测资源绝对路径的库
+
+## 地理位置
+*为地理编码地址和使用纬度经度的库*
+
+* [GeoCoder](http://geocoder-php.org/) - 一个地理编码库
+* [GeoTools](https://github.com/php-loep/Geotools) - 一个地理工具相关的库
+* [PHPGeo](https://github.com/mjaschen/phpgeo) - 一个简单的地理库
+* [GeoJSON](https://github.com/jmikola/geojson) - 一个地理 JSON 的实现
+
+##  日期和时间
+*处理日期和时间的库*
+
+* [Carbon](https://github.com/briannesbitt/Carbon) - 一个简单的日期时间 API 扩展
+* [ExpressiveDate](https://github.com/jasonlewis/expressive-date) - 另一个日期时间 API 扩展
+* [CalendR](http://yohan.giarel.li/CalendR) -  一个日历管理库
+
+## 事件
+*事件驱动或实现了非阻塞事件循环的库*
+
+* [React](https://github.com/reactphp/react) - 一个事件驱动的非阻塞 I/O 库
+* [Rx.PHP](https://github.com/asm89/Rx.PHP) - 一个 reactive 扩展库
+* [Ratchet](https://github.com/cboden/Ratchet) - 一个 web socket 库.
+* [Hoa WebSocket](https://github.com/hoaproject/Websocket) - 另一个 web socket 库.
+* [Hoa EventSource](https://github.com/hoaproject/Eventsource) - 一个事件源库
+* [Evenement](https://github.com/igorw/evenement) - -一个事件分发库
+* [FuelPHP Event](https://github.com/fuelphp/event) - 另一个事件分发库
+
